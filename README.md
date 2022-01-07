@@ -1,0 +1,2 @@
+# zjj.one
+private blog
